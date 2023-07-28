@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="text/css" href="Joshmit logo.png">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>JOSHMIT Technologies</title>
+	<link rel="stylesheet" type="text/css" href="Style.CSS">
+</head>
+<body>
+
+
+	<header>
+
+		<nav>
+			<input  Id="Search" type="text" name="" placeholder="Search" required><br><br>
+			<label for="check" class="checkbtn">
+				<i class="fas fa-bars"></i>
+			</label>
+			<label class="logo">JOSHMIT Technologies</label>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Services</a></li>
+				<li><a href="#">Contact</a></li>
+					<li><a href="#">Product</a></li>
+		</ul>
+		</nav>
+		<h1><b>About Us</b></h1>
+		<div class="indexanime"></div>
+
+
+</body>
+</html>
